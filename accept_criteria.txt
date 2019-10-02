@@ -1,0 +1,4 @@
+Acceptance criteria:
+
+- Each request response time must less than 2 second when concurrent users < 30 users.
+- More than 30 users, accept the error 10%.
